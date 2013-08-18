@@ -18,6 +18,4 @@ $this->menu=array(
 <!--
 <h1>Update EmployerSubscription <?php //echo $model->ESUB_ID; ?></h1>-->
 
-Thisis a test.
-
 <?php echo $this->renderPartial('_form', array('model'=>$model)); ?>
